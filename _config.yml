@@ -8,14 +8,13 @@ relative_permalinks: true
 
 # Setup
 title:            rakeshbs.github.io
-tagline:          'A Jekyll theme'
 description:      'A collection of random code.'
 url:              rakeshbs.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Rakesh'
+  url:            https://twitter.com/rakesh_bs
 
 paginate:         5
 
