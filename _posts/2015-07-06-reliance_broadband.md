@@ -1,0 +1,29 @@
+---
+layout: post
+title: A gem for Reliance Broadband
+---
+
+I use Reliance Broadband Internet connection.
+Even though I use the an unlimited 4mbps connection, I have to log in now and then and their web interface is quite annoying with a lot of useless images.
+
+**So I created a gem. My first gem actually.**
+
+**It's called login_reliance.**
+
+You can install it using
+
+    gem install login_reliance
+
+After installing, you can run the gem using the command
+
+    login_reliance
+
+The first time you run the script, it will prompt you to enter the username and password. You can choose to save the login information in a file. The information will be stored in a file in the home directory.
+
+Sometimes the connection is buggy and won't login on the first try. So we have to keep trying it. To keep looping till you are successfully logged in, you can use
+
+    login_reliance -r
+
+You can checkout the code at [https://github.com/rakeshbs/login_reliance](https://github.com/rakeshbs/login_reliance).
+Feel free to modify and use it as you like.
+
