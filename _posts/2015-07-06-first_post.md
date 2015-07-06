@@ -8,7 +8,7 @@ I have been thinking of starting a blog for a while now. I kept searching for a 
 The intention of the blog is to update and keep track of the new things I find.
 I don't talk a lot and I am ending this post with a quote.
 
-<p class="message">
-"Do not seek to follow in the footsteps of the wise. Seek what they sought." -- Matsuo Basho
-</p>
+> "Do not seek to follow in the footsteps of the wise. Seek what they sought."
+
+> -- Matsuo Basho
 
