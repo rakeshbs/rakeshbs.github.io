@@ -24,7 +24,7 @@ So here is my wish.
 > so that people like me can continue to work in their favourite editors like Vim or Sublime Edit.
 
 For Java, I use [eclim](http://eclim.org) and I love it. There is also [Omnisharp tools for .NET](http://www.omnisharp.net/), but I haven't tried it out yet.
-I really love the Swift language. I wish someday,after Swift becomes open source, it's possible to use
+<br/>I really love the Swift language. I wish someday, after Swift becomes open source, it's possible to use
 Vim to develop iOS apps.
 
 
