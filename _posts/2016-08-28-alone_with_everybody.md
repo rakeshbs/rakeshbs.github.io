@@ -3,7 +3,7 @@ layout : post
 title : Alone with Everybody
 description: A poem from Charles Bukowski
 comments: true
-keywords: "charles bukowski, alone"
+keywords: "charles bukowski, alone, poem"
 ---
 
 I am posting a poem I liked recently by Charles Bukowski.
