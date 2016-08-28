@@ -1,25 +1,57 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      rouge
 
-# Permalinks
-permalink:        pretty
-paginate:         5
+# SEO settings
+title: ""
+title2: "rakeshbs.github.io" # default: ""
+description: "Ramblings of a misfit"
+keywords: "programmer"
+url: rakeshbs.github.io
+baseurl: null # apply repo name if use it under gh-pages branch
+# baseurl: null # apply null if repo name is something like username.github.io
 
-# Setup
-title:            rakeshbs.github.io
-description:      'A collection of random code.'
-url:              rakeshbs.github.io
-baseurl:          /
+google_analytics: UA-XXXXX-XX
+repo: rakeshbs.github.io
+disqus_shortname: "rakesh_bs"
+twitter_username: "rakesh_bs"
+comments: true
 
+# Build settings
+permalink   : /:year/:title/
+markdown    : kramdown
+highlighter : rouge
+
+source: ./
+destination: ./_site
+
+# Sass configuration
+sass:
+  sass_dir: assets/scss
+  style: compressed # expanded
+
+# Author settings
 author:
-  name:           'Rakesh'
-  url:            https://twitter.com/rakesh_bs
+  name     : "Rakesh BS"
+  job      : "Programmer"
+  bio      : ""
+  thumb    : /images/me.jpg
+  email    : rakeshbs@gmail.com
+  url      : http://rakeshbs.github.io
+  github   : http://github.com/rakeshbs
+  twitter  : http://twitter.com/rakesh_bs
 
-# Custom vars
-version:          2.1.0
+# social settings
+og_locale: "en_US"
+twitter_card: "summary_large_image"
+twitter_site: "@rakesh_bs"
 
-github:
-  repo:           https://github.com/poole/hyde
-  gems:           [jekyll-paginate]
+gems:
+  - bourbon
+  - jekyll-paginate
 
+# navbar pages
+navbar:
+  - slug : about
+    title: About
+  - slug : blog
+    title: Blog
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]

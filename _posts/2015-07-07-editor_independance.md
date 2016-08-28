@@ -1,6 +1,9 @@
 ---
 layout : post
-title : Wishful thinking..
+title : A call for editor independant language tools
+description: A call for editor independant language tools
+comments: true
+keywords: "edtior independance, vim love"
 ---
 
 >Give me six hours to chop down a tree and I will spend the first four sharpening the axe.

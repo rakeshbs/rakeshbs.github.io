@@ -1,6 +1,9 @@
 ---
 layout : post
 title : Alone with Everybody
+description: A poem from Charles Bukowski
+comments: true
+keywords: "charles bukowski, alone"
 ---
 
 It's been a while since I have updated this blog. It has been an eventful year. I have learnt so many things both in life and my profession. I am thinking about blogging about things I am working on right now. For now, I am posting a poem I liked recently by Charles Bukowski.

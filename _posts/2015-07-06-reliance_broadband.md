@@ -1,6 +1,9 @@
 ---
 layout: post
 title: A gem for Reliance Broadband
+description: About my first gem
+comments: true
+keywords: "ruby gem, reliance login"
 ---
 
 I use Reliance Broadband Internet connection.

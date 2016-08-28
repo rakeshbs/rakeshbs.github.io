@@ -1,6 +1,9 @@
 ---
 layout: post
 title: My First Blog Post
+description: This is my first blog post
+comments: true
+keywords: "first blog post"
 ---
 
 I have been thinking of starting a blog for a while now. I kept searching for a proper theme for the blog.
