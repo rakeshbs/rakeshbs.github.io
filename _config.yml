@@ -1,9 +1,10 @@
 # Dependencies
 markdown:         redcarpet
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
+paginate:         5
 
 # Setup
 title:            rakeshbs.github.io
@@ -15,10 +16,10 @@ author:
   name:           'Rakesh'
   url:            https://twitter.com/rakesh_bs
 
-paginate:         5
-
 # Custom vars
 version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
+  gems:           [jekyll-paginate]
+
