@@ -15,4 +15,7 @@ I am finally starting my first steps. So far my plans are to
 2. Revise Information Theory
 3. Start learning Machine Learning.
 
+I am revising my probability using the videos from this youtube channel.
+[mathematical monk](https://www.youtube.com/channel/UCcAtD_VYwcYwVbTdvArsm7w)
+
 Ok that's it for now.
