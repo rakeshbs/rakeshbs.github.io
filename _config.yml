@@ -32,7 +32,7 @@ author:
   name     : "Rakesh BS"
   job      : "Coder"
   bio      : ""
-  thumb    : /images/me.jpg
+  thumb    : assets/images/yinyang.png
   email    : rakeshbs@gmail.com
   url      : http://rakeshbs.github.io
   github   : http://github.com/rakeshbs
@@ -40,7 +40,7 @@ author:
 
 # social settings
 og_locale: "en_US"
-twitter_card: "summary_large_image"
+twitter_card: "summary"
 twitter_site: "@rakesh_bs"
 
 gems:
