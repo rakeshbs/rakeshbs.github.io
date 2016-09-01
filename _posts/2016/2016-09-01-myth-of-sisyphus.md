@@ -15,8 +15,7 @@ He says, the existence of such an entity give lives purpose, and without **God**
  The most logical thing to do in a Godless world, in his perspective, is to commit suicide.
 
 In Greek mythology, there was a king called Sisyphus. He was punished because he tried to fool Death. The punishment was to
-roll an immense boulder up a hill again and again, only to watch it roll back down again. He was sentenced to do this
-for all of eternity. Parallels can be drawn about the myth to our very own **Naaranathu Bhraandhan**. That is a discussion for some other
+roll an immense boulder up a hill again and again, only to watch it roll back down again, for all of eternity. Parallels can be drawn about the myth to our very own **Naaranathu Bhraandhan**. That is a discussion for some other
 time.
 
 If you compare the predicament of Sisyphus to our everyday life, we can draw lot of similarities. In a universe without a purpose,
