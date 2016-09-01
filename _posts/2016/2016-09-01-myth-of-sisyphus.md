@@ -4,6 +4,7 @@ title: The Myth of Sisyphus
 description: To die or not to die
 comments: true
 keywords: "suicide, purpose, meaning"
+cover: /assets/images/yinyang.png
 ---
 
 > There is one truly serious philosophical problem, and that is suicide.
