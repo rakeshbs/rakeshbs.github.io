@@ -7,10 +7,7 @@ keywords: "edtior independance, vim love"
 ---
 
 >Give me six hours to chop down a tree and I will spend the first four sharpening the axe.
-
 >-- Abraham Lincoln
-
-
 
 I really love working in Vim.
 I have customized it so much over the last year,
