@@ -36,6 +36,8 @@ just because "your thoughts are so noble"? <br/>
 >
 >Do you wake up in cold sweats, haunted by the people you have hurt? <br/>
 >
+>Do you feel that you have destroyed all the good things that you were lucky to have? <br/>
+>
 >Do you love/hate yourself at the same time? <br/>
 >
 >Do you feel guilty that you feel these feelings even though you are privileged? <br/>
