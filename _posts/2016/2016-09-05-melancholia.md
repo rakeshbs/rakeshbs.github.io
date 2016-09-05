@@ -13,7 +13,7 @@ cover: /assets/images/yinyang.png
 >
 >Do you feel helpless at times, seeing all the pain in the world? <br/>
 >
->Do you feel an immense desire to save children, when you find them on the strees? <br/>
+>Do you feel an immense desire to save children, when you see them on the streets? <br/>
 >
 >Do you feel like a hypocrite, someone who is trying to feel superior
 just because "your thoughts are so noble"? <br/>
