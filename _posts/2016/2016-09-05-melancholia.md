@@ -28,7 +28,7 @@ just because "your thoughts are so noble"? <br/>
 >
 >Do you feel intensely sad because you have to fake love when you are surrounded by it? <br/>
 >
->Do you feel your whole projected self is a fake, a sham, just so that you are "liked"?
+>Do you feel your whole projected self is fake, a sham, you created it just to be "liked"?
 >
 >Do you talk to people hoping you will find that magical connection, the one that stories talk about, only to be disappointed? <br/>
 >
