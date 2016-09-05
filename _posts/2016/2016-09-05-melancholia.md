@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Melancholia
-description: Feeling deeply sad.
+description: A collection of sorrows.
 comments: true
 keywords: "everyday"
 cover: /assets/images/yinyang.png
