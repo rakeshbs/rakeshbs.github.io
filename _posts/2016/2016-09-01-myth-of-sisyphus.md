@@ -25,13 +25,7 @@ everything is absurd. It is better to **end our life right now**. Only the exist
 This is the argument used by my friend.
 
 I have a different take on things. I am happy that the Universe doesn't care about anyone and the fact that everything is random and meaningless.
-This means that the bad and painful things that have happened in my life, because of things that were not in my control, are due to the randomness
+This means that the bad and painful things that have happened in my life, because of things that were not in my control, were due to the randomness
 of the Universe and not because a conscious vengeful entity was out to get me or I was bad in a previous life (Karma).
 I can turn things around at any time, even when the planets don't align. My life is mine to shape according to my own
 hardwork and free will. And that is beautiful.
-
-
-
-
-
-
