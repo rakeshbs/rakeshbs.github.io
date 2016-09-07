@@ -2,7 +2,7 @@
 # SEO settings
 title: ""
 title2: "rakeshbs.github.io" # default: ""
-description: "Ramblings of a misfit"
+description: "Ramblings of an inquisitive misfit"
 keywords: "programmer"
 url: rakeshbs.github.io
 baseurl: null # apply repo name if use it under gh-pages branch
