@@ -15,7 +15,7 @@ cover: /assets/images/yinyang.png
 >
 >Do you feel an immense desire to save children, when you see them on the streets? <br/>
 >
->Do you feel like a hypocrite, someone feels superior
+>Do you feel like a hypocrite, someone who feels superior
 just because "your thoughts are so noble"? <br/>
 >
 >Do you feel you were chosen and you are special? <br/>
