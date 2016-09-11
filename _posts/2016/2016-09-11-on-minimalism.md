@@ -15,6 +15,6 @@ I am a minimalist by philosophy. This doesn't mean that I don't own any material
 
 It only means that the inherent value I give myself does not depend upon the things I possess. I only buy things after deliberately making sure that owning it will add value to my life or make my life easier in some way. Owning an expensive Macbook Pro is an example of that calculated decision. It allows me to take my work anywhere.
 
-To know more about the philosophy watch the following TED talk.
+To know more about the philosophy, watch the following TED talk.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GgBpyNsS-jU" frameborder="0" allowfullscreen></iframe>
 
