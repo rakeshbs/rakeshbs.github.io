@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Minimalism
-description: I am a minimalist
+description: I am a minimalist.
 comments: true
 keywords: "minimalism"
 cover: /assets/images/yinyang.png
