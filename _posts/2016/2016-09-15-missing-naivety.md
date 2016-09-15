@@ -17,7 +17,7 @@ I started my company thinking I would change the world.
 
 After learning about the complexities of the world, I found changing it won't be as easy task.
 
-I think I did more when I was naive.
+I realise how naive I was, but I think I did more when I was naive.
 
 Maybe naivety is required to keep pushing myself further so that I don't give up.
 
