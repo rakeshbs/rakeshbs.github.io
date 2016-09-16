@@ -15,9 +15,9 @@ Then I wanted to become one of the best programmers in the world.
 
 I started my company thinking I would change the world.
 
-After learning about the complexities of the world, I found changing it won't be as easy task.
+After learning about the complexities of the world, I found changing it is not an easy task.
 
-I realise how naive I was, but I think I did more when I was naive.
+I now realise how naive I was, but I think I did more when I was naive.
 
 Maybe naivety is required to keep pushing myself further so that I don't give up.
 
