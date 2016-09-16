@@ -19,7 +19,7 @@ After learning about the complexities of the world, I found changing it is not a
 
 I now realise how naive I was, but I think I did more when I was naive.
 
-Maybe naivety is required to keep pushing myself further so that I don't give up.
+Maybe naivety is required to keep pushing myself through all the failures.
 
 I am trying to channel my inner naive child now.
 
