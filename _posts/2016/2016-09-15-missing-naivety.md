@@ -9,7 +9,7 @@ cover: /assets/images/yinyang.png
 
 > Once upon a time, I was naive enough to think that I could change the world.
 
-I wanted to be a physicist who worked on the <b>Theory of Everything</b> when I was a kid.
+I wanted to be a physicist who worked on the **Theory of Everything** when I was a kid.
 
 Then I wanted to become one of the best programmers in the world.
 
